@@ -1,2 +1,6 @@
-2024-04-03 19:11:53,619 : logger : INFO : **********Exicution Started*********
-2024-04-03 19:13:26,446 : logger : INFO : **********Exicution Started*********
+2024-04-03 19:38:20,923 : logger : INFO : **********Exicution Started*********
+2024-04-03 19:38:21,114 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-03 19:38:21,340 : logger : INFO : Your password is: Piyush@123 -
+2024-04-03 19:38:22,698 : logger : INFO : Click on Login button
+2024-04-03 19:38:22,733 : logger : ERROR : Test case is failed
+2024-04-03 19:38:22,924 : logger : INFO : **********Exicution Succesful*********
