@@ -813,5 +813,6 @@
   "Lib/site-packages/trio/_tests/tools/test_mypy_annotate.py::test_processing[normal]",
   "Lib/site-packages/trio/_tests/tools/test_mypy_annotate.py::test_processing[note-wcol]",
   "Lib/site-packages/trio/_tests/tools/test_mypy_annotate.py::test_processing[warn-lineonly]",
-  "test_cases/test_login.py::TestLogin::test_logins"
+  "test_cases/test_login.py::TestLogin::test_logins",
+  "test_cases/test_login.py::TestLogin::test_shopping"
 ]

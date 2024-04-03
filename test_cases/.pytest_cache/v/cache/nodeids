@@ -1,3 +1,4 @@
 [
-  "test_login.py::TestLogin::test_logins"
+  "test_login.py::TestLogin::test_logins",
+  "test_login.py::TestLogin::test_shopping"
 ]

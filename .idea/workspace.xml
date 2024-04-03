@@ -6,9 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="79d5df90-115d-4b81-a538-20518f988703" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Screenshots/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_Reports/537ca7b6-ab29-4094-bf7e-d3b11760a05f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_Reports/e091e8b2-e700-45e7-a7c3-60d78bcff335-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_Reports/e8fd13c0-c74e-4ed1-9803-eaba8c1aef7a-attachment.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_cases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +31,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Logs/logs.log" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PageObjectModule/LoginPage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Utilities/loggerfile.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_cases/conftest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_cases/test_login.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +56,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_login.TestLogin.test_shopping">
     <configuration name="Python tests for test_login.TestLogin.test_logins" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,8 +71,23 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_login.TestLogin.test_shopping" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_shopping&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_login.TestLogin.test_shopping" />
         <item itemvalue="Python tests.Python tests for test_login.TestLogin.test_logins" />
       </list>
     </recent_temporary>
