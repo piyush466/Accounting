@@ -1,5 +1,6 @@
 import time
 
+from PageObjectModule.ProceedPage import Proceed_Checkout
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from PageObjectModule.LoginPage import LoginPage
@@ -54,5 +55,55 @@ class TestLogin:
                 break
         self.log.info("*********Test Case 2 Ended**********")
         self.driver.save_screenshot(r"C:\Users\ASUS\PycharmProjects\pythonProject1\Screenshots\Test_case2.png")
+        self.sp.click_items()
         time.sleep(3)
+
+
+    def test_proceed_To_Checkout(self,setup):
+        self.driver = setup
+        self.obj = TestLogin()
+
+        self.obj.test_shopping(self.driver)
+        self.pc = Proceed_Checkout(self.driver)
+        self.elements = self.driver.find_elements(By.XPATH, "//a")
+        for element in self.elements:
+            print(element.text)
+            if element.text == "HTML5 Forms":
+                print("match with Book")
+                break
+        self.driver.execute_script("window.scrollBy(0,1500)")
+        self.pc.proceed_btn()
+
+        self.radios = self.driver.find_elements(By.XPATH, "//input[@type='radio']")
+        self.payments = self.driver.find_elements(By.XPATH, "//li/label")
+
+        for radio,payment in zip(self.radios,self.payments):
+            print(payment.text)
+            if payment.text == "Cash on Delivery":
+                radio.click()
+        time.sleep(3)
+        self.pc.order_place_btn()
+        time.sleep(5)
+        self.order_details = self.driver.find_elements(By.XPATH, "//ul[@class='woocommerce-thankyou-order-details order_details']/li")
+        lists = []
+        for order_detail in self.order_details:
+            # print(order_detail.text)
+            lists.append(order_detail.text)
+
+        print(lists)
+
+        print("Your order number is:- ", lists[0])
+        print("Date of booking is:- ", lists[1])
+        print("Total price is:- ",lists[2])
+        print("Your Payment method is:- ", lists[3])
+
+
+
+
+
+
+
+
+
+
 

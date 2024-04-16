@@ -1,4 +1,6 @@
 [
+  "test_checkout.py::TestCheckout::test_checkout_page",
   "test_login.py::TestLogin::test_logins",
+  "test_login.py::TestLogin::test_proceed_To_Checkout",
   "test_login.py::TestLogin::test_shopping"
 ]

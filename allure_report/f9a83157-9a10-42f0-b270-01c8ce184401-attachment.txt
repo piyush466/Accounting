@@ -1,0 +1,6 @@
+[32mINFO    [0m logger:test_login.py:15 **********Exicution Started*********
+[32mINFO    [0m logger:test_login.py:19 Your Username is: piyushdravyakar48@gmail.com -
+[32mINFO    [0m logger:test_login.py:21 Your password is: Piyush@123 -
+[32mINFO    [0m logger:test_login.py:23 Click on Login button
+[1m[31mERROR   [0m logger:test_login.py:31 Test case is failed
+[32mINFO    [0m logger:test_login.py:34 **********Exicution Succesful*********
