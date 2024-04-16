@@ -90,7 +90,7 @@ class TestLogin:
             # print(order_detail.text)
             lists.append(order_detail.text)
 
-        print(lists)
+        # print(lists)
 
         print("Your order number is:- ", lists[0])
         print("Date of booking is:- ", lists[1])

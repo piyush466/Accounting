@@ -562,3 +562,51 @@
 2024-04-16 19:57:19,804 : logger : INFO : *********Test Case 2 Started**********
 2024-04-16 19:57:26,037 : logger : INFO : **********started for loop************
 2024-04-16 19:57:26,166 : logger : INFO : *********Test Case 2 Ended**********
+2024-04-16 20:02:36,337 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:02:36,583 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:02:36,657 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:02:37,858 : logger : INFO : Click on Login button
+2024-04-16 20:02:38,319 : logger : ERROR : Test case is failed
+2024-04-16 20:02:38,394 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:02:45,881 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:02:46,008 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:02:46,092 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:02:47,573 : logger : INFO : Click on Login button
+2024-04-16 20:02:47,603 : logger : ERROR : Test case is failed
+2024-04-16 20:02:47,785 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:02:47,786 : logger : INFO : *********Test Case 2 Started**********
+2024-04-16 20:02:53,889 : logger : INFO : **********started for loop************
+2024-04-16 20:02:54,099 : logger : INFO : *********Test Case 2 Ended**********
+2024-04-16 20:03:08,549 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:03:08,706 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:03:08,788 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:03:10,039 : logger : INFO : Click on Login button
+2024-04-16 20:03:10,446 : logger : ERROR : Test case is failed
+2024-04-16 20:03:10,520 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:03:10,520 : logger : INFO : *********Test Case 2 Started**********
+2024-04-16 20:03:35,697 : logger : INFO : **********started for loop************
+2024-04-16 20:03:35,699 : logger : INFO : *********Test Case 2 Ended**********
+2024-04-16 20:06:56,896 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:06:57,146 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:06:57,233 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:06:59,872 : logger : INFO : Click on Login button
+2024-04-16 20:06:59,910 : logger : ERROR : Test case is failed
+2024-04-16 20:07:00,022 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:07:05,610 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:07:05,796 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:07:05,882 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:07:08,126 : logger : INFO : Click on Login button
+2024-04-16 20:07:08,170 : logger : ERROR : Test case is failed
+2024-04-16 20:07:08,279 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:07:08,279 : logger : INFO : *********Test Case 2 Started**********
+2024-04-16 20:07:33,735 : logger : INFO : **********started for loop************
+2024-04-16 20:07:33,735 : logger : INFO : *********Test Case 2 Ended**********
+2024-04-16 20:07:45,019 : logger : INFO : **********Exicution Started*********
+2024-04-16 20:07:45,184 : logger : INFO : Your Username is: piyushdravyakar48@gmail.com -
+2024-04-16 20:07:45,257 : logger : INFO : Your password is: Piyush@123 -
+2024-04-16 20:07:46,262 : logger : INFO : Click on Login button
+2024-04-16 20:07:46,299 : logger : ERROR : Test case is failed
+2024-04-16 20:07:46,582 : logger : INFO : **********Exicution Succesful*********
+2024-04-16 20:07:46,583 : logger : INFO : *********Test Case 2 Started**********
+2024-04-16 20:07:52,865 : logger : INFO : **********started for loop************
+2024-04-16 20:07:53,013 : logger : INFO : *********Test Case 2 Ended**********
